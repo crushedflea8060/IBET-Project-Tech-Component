@@ -12,7 +12,7 @@ Requires the micropython-servo library - https://pypi.org/project/micropython-se
 import time
 import math
 from random import randrange, random
-import math
+import machine
 
 ##implemented servo in the main file instead of creating a needless buggy package.
 
